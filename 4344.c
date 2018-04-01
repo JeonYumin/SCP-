@@ -22,7 +22,7 @@ int main(){
 
 		}
 
-		avg = (double)sum / (double)N; // ¹İ Æò±Õ
+		avg = (double)sum / (double)N; //  ë°˜ í‰ê· 
 
 		for(k = 0; k < N; k++){
 
